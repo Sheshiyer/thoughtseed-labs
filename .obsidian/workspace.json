@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "1f6262e21b6f64a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a9f216f433358e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "272dd2fc7f84a15a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-operations/project-management/height-workflows/project-workflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "project-workflow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd0604c9bfc70d67",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9be0fe15b62433c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "accda467029c94e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "068aa3f4751d1647",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "719f3ceca844388a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85b4fa14eaf3c965",
+    "type": "split",
+    "children": [
+      {
+        "id": "e90b015a5ce2170e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62265a937ca81e65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20-operations/project-management/height-workflows/project-workflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for project-workflow"
+            }
+          },
+          {
+            "id": "a37d1a44bd2baa39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20-operations/project-management/height-workflows/project-workflow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from project-workflow"
+            }
+          },
+          {
+            "id": "b8646159c50a9f17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b40b446a3e08581e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20-operations/project-management/height-workflows/project-workflow.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of project-workflow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "accda467029c94e0",
+  "lastOpenFiles": [
+    "60-client-ecosystem/03-service-delivery.md",
+    "60-client-ecosystem/02-engagement-framework.md",
+    "60-client-ecosystem/01-service-offerings/core-services.md",
+    "60-client-ecosystem/01-service-offerings",
+    "50-team/02-employee-handbook/01-code-of-conduct.md",
+    "50-team/02-employee-handbook",
+    "50-team/01-policies/03-travel-expense-policy.md",
+    "50-team/01-policies/02-leave-policy.md",
+    "50-team/01-policies/01-work-hours-and-remote-work.md",
+    "50-team/01-policies",
+    "40-products/03-senseplay/product-overview.md",
+    "40-products/03-senseplay",
+    "40-products/02-vibrasonix/product-overview.md",
+    "40-products/02-vibrasonix",
+    "40-products/01-bezly/product-overview.md",
+    "40-products/01-bezly",
+    "80-templates/technical-spec-template.md",
+    "80-templates/project-brief-template.md",
+    "20-operations/01-project-management-system.md",
+    "10-brand-essence/02-visual-brand-guidelines.md",
+    "10-brand-essence/01-mission-and-values.md",
+    "00-meta/thoughtseed-knowledge-center.md",
+    "10-brand-essence/vision-mission/core-mission.md",
+    "00-meta/vault-guide.md",
+    "Welcome.md",
+    "30-research-hub/biofield-research",
+    "30-research-hub/quantum-computing",
+    "30-research-hub/consciousness-studies",
+    "20-operations/project-management/height-workflows/project-workflow.md",
+    "20-operations/project-management/height-workflows"
+  ]
+}
