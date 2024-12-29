@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-operations/project-management/height-workflows/project-workflow.md",
+                "file": "40-products/digital-platforms/company-website/website-copy/waypoints/hidden/14-infinite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project-workflow"
+              "title": "14-infinite"
             }
           }
         ]
@@ -162,37 +162,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "accda467029c94e0",
+  "active": "272dd2fc7f84a15a",
   "lastOpenFiles": [
-    "60-client-ecosystem/03-service-delivery.md",
-    "60-client-ecosystem/02-engagement-framework.md",
+    "40-products/digital-platforms/company-website/website-copy/waypoints/01-our-approach.md",
+    "40-products/digital-platforms/company-website/website-copy/waypoints/hidden/14-infinite.md",
+    "40-products/digital-platforms/company-website/website-copy/waypoints/secondary/06-science.md",
+    "40-products/digital-platforms/company-website/website-copy/waypoints/hidden/10-origin.md",
+    "80-templates/waypoint-documentation.md",
+    "10-brand-essence/02-visual-brand-guidelines.md",
+    "40-products/digital-platforms/company-website/website-copy/waypoints/hidden/13-bloom.md",
     "60-client-ecosystem/01-service-offerings/core-services.md",
-    "60-client-ecosystem/01-service-offerings",
-    "50-team/02-employee-handbook/01-code-of-conduct.md",
-    "50-team/02-employee-handbook",
-    "50-team/01-policies/03-travel-expense-policy.md",
-    "50-team/01-policies/02-leave-policy.md",
-    "50-team/01-policies/01-work-hours-and-remote-work.md",
-    "50-team/01-policies",
-    "40-products/03-senseplay/product-overview.md",
-    "40-products/03-senseplay",
-    "40-products/02-vibrasonix/product-overview.md",
-    "40-products/02-vibrasonix",
-    "40-products/01-bezly/product-overview.md",
-    "40-products/01-bezly",
+    "60-client-ecosystem/02-engagement-framework.md",
+    "60-client-ecosystem/03-service-delivery.md",
     "80-templates/technical-spec-template.md",
     "80-templates/project-brief-template.md",
-    "20-operations/01-project-management-system.md",
-    "10-brand-essence/02-visual-brand-guidelines.md",
-    "10-brand-essence/01-mission-and-values.md",
-    "00-meta/thoughtseed-knowledge-center.md",
-    "10-brand-essence/vision-mission/core-mission.md",
     "00-meta/vault-guide.md",
-    "Welcome.md",
-    "30-research-hub/biofield-research",
-    "30-research-hub/quantum-computing",
-    "30-research-hub/consciousness-studies",
+    "00-meta/thoughtseed-knowledge-center.md",
+    "50-team/01-policies/01-work-hours-and-remote-work.md",
     "20-operations/project-management/height-workflows/project-workflow.md",
-    "20-operations/project-management/height-workflows"
+    "40-products/smart-home-solutions/thaleos/70-resources",
+    "40-products/smart-home-solutions/thaleos/60-iterations",
+    "40-products/smart-home-solutions/thaleos/50-deployment",
+    "40-products/smart-home-solutions/thaleos/40-testing",
+    "40-products/smart-home-solutions/thaleos/30-development",
+    "40-products/smart-home-solutions/thaleos/20-design",
+    "40-products/smart-home-solutions/thaleos/10-research",
+    "40-products/smart-home-solutions/thaleos/00-meta",
+    "40-products/smart-home-solutions/thaleos",
+    "40-products/infrastructure-and-energy/wegrid/70-resources",
+    "50-team/02-employee-handbook/01-code-of-conduct.md",
+    "50-team/01-policies/03-travel-expense-policy.md",
+    "50-team/01-policies/02-leave-policy.md",
+    "40-products/03-senseplay/product-overview.md",
+    "40-products/02-vibrasonix/product-overview.md",
+    "40-products/01-bezly/product-overview.md",
+    "20-operations/01-project-management-system.md",
+    "10-brand-essence/01-mission-and-values.md",
+    "10-brand-essence/vision-mission/core-mission.md",
+    "Welcome.md"
   ]
 }
